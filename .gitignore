@@ -4,3 +4,4 @@
 .Ruserdata
 *.Rproj
 notes_price_tracking.R
+.DS_Store
